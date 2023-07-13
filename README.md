@@ -4,6 +4,7 @@
 - [Module 2: Account Security](archieve/module-2.md)
 - [Module 3: Networking 1](archieve/module-3.md)
 - [Module 4: Compute](archieve/module-4.md)
+- [Module 5: Storage](archieve/module-5.md)
 
 
 ## Getting Started: AWS Cloud Essentials
