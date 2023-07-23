@@ -5,6 +5,8 @@
 - [Module 3: Networking 1](archieve/module-3.md)
 - [Module 4: Compute](archieve/module-4.md)
 - [Module 5: Storage](archieve/module-5.md)
+- [Module 6: Database Services](archieve/module-6.md)
+- [Module 7: Monitoring and Scaling](archieve/module-7.md)
 
 
 ## Getting Started: AWS Cloud Essentials
